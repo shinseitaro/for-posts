@@ -1,0 +1,7 @@
+pandas
+numpy
+backtesting
+ccxt
+isort 
+black 
+flake8
